@@ -12,7 +12,7 @@
   <span class="author" itemprop="copyrightHolder">{{ config.author }}</span>
   <div>
   粤ICP备 -
-  <a href="http://www.miitbeian.gov.cn/">18045940号-1</a>
+  <a href="http://www.beian.miit.gov.cn">18045940号-2</a>
   </a>
 </div>
 </div>
